@@ -5,8 +5,8 @@ I used two models from hugging face:
 
 Model to translate from polish to english:
 
-https://huggingface.co/SamLowe/roberta-base-go_emotions
+https://huggingface.co/Helsinki-NLP/opus-mt-pl-en
 
 Model to recognize emotions:
 
-https://huggingface.co/Helsinki-NLP/opus-mt-pl-en
+https://huggingface.co/SamLowe/roberta-base-go_emotions
